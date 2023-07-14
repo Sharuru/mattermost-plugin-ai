@@ -19,7 +19,7 @@ import (
 )
 
 const (
-	BotUsername = "ai"
+	BotUsername = "chatgpt"
 
 	CallsRecordingPostType = "custom_calls_recording"
 
