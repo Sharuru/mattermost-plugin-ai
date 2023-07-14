@@ -7,7 +7,7 @@ import {manifest} from '@/manifest';
 import {LLMBotPost} from './components/llmbot_post';
 import {doReaction, doSummarize, doTranscribe} from './client';
 
-const BotUsername = 'ai';
+const BotUsername = 'chatgpt';
 
 export default class Plugin {
     // eslint-disable-next-line @typescript-eslint/no-unused-vars, @typescript-eslint/no-empty-function
